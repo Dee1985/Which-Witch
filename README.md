@@ -2,4 +2,4 @@
 
 word guess game
 
-live site:
+live site: <https://dee1985.github.io/which-witch/>
